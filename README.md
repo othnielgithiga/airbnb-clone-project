@@ -43,8 +43,3 @@ Key design objectives:
 | **Listing Detailed View** | Shows comprehensive details of a selected property. | - Property gallery<br>- Host info and amenities<br>- Reviews section<br>- “Book Now” button |
 | **Simple Checkout View** | Allows users to confirm their booking details and make payment. | - Booking summary<br>- Payment form<br>- Confirmation button and success message |
 
----
-
-### 💡 Importance of a User-Friendly Design in a Booking System
-A user-friendly design is critical in a booking system because it directly affects conversion rates and user satisfaction. A clean, intuitive interface helps users find properties quickly and complete bookings without frustration.  
-By reducing confusion, simplifying navigation, and ensuring accessibility across devices, a good UI/UX design builds trust and encourages repeat visits — essential for the success of any online booking platform.
