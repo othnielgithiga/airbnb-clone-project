@@ -15,7 +15,7 @@ This project is a simplified clone of Airbnb designed to help me practice buildi
 
 ## UI/UX Design Planning
 
-### 🎯 Design Goals
+###  Design Goals
 The goal of the UI/UX design is to create an intuitive, visually appealing, and responsive interface that mirrors the simplicity and usability of Airbnb. The design will focus on ease of navigation, clarity of information, and a smooth booking flow for users.
 
 Key design objectives:
@@ -26,7 +26,7 @@ Key design objectives:
 
 ---
 
-### 🌟 Key Features to Implement
+###  Key Features to Implement
 - **Search and Filter System:** Allow users to find properties by location, price, and availability.  
 - **Interactive Property Cards:** Show images, prices, and basic property info at a glance.  
 - **Booking Flow:** Enable a seamless transition from browsing to checkout.  
@@ -35,7 +35,7 @@ Key design objectives:
 
 ---
 
-### 🏠 Primary Pages Overview
+###  Primary Pages Overview
 
 | Page Name | Description | Key Elements |
 |------------|--------------|---------------|
