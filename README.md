@@ -75,6 +75,38 @@ Understanding and documenting design properties such as **color styles**, **typo
 - It ensures **visual consistency** throughout the application.  
 - Helps developers maintain **brand identity** without guessing design values.  
 - Makes collaboration between designers and developers more efficient.  
-- Simplifies updates and scalability — if a design changes in Figma, developers can adjust styles quickly.  
+- Simplifies updates and scalability — if a design changes in Figma, developers can adjust styles quickly.
 
+## Project Roles and Responsibilities
+
+A successful software project relies on clear role definition and collaboration across different team members. Below are the key roles and their responsibilities for the Airbnb Clone Project.
+
+| Role | Responsibilities | Contribution to Project Success |
+|------|-------------------|---------------------------------|
+| **Project Manager (PM)** | - Oversees project planning, scheduling, and progress tracking.<br>- Manages communication between all stakeholders.<br>- Ensures the project stays within scope, budget, and timeline. | Keeps the project organized, aligns the team’s work with goals, and ensures deadlines are met efficiently. |
+| **Product Owner (PO)** | - Defines the product vision and roadmap.<br>- Prioritizes features and maintains the product backlog.<br>- Acts as the voice of the customer. | Ensures that development aligns with user needs and business objectives. |
+| **Scrum Master** | - Facilitates Scrum ceremonies (stand-ups, sprints, retrospectives).<br>- Removes blockers for the team.<br>- Encourages agile best practices. | Helps the team stay productive and ensures smooth communication within agile processes. |
+| **Frontend Developers** | - Implement the user interface based on Figma designs.<br>- Build responsive and accessible components using React and Tailwind CSS.<br>- Integrate frontend with backend APIs. | Bring the UI/UX design to life and ensure users have a smooth, visually appealing experience. |
+| **Backend Developers** | - Develop RESTful APIs and manage database operations.<br>- Handle authentication, data validation, and business logic.<br>- Ensure security and scalability. | Provide the logic and data handling that make the application functional and reliable. |
+| **Designers (UI/UX)** | - Create wireframes, mockups, and prototypes in Figma.<br>- Define color palettes, typography, and overall design system.<br>- Conduct usability testing. | Enhance usability, ensure visual consistency, and improve the overall user experience. |
+| **QA/Testers** | - Test all features for bugs, performance issues, and UI/UX consistency.<br>- Perform manual and automated testing.<br>- Verify that requirements are met. | Maintain software quality and ensure the app is stable and user-ready before deployment. |
+| **DevOps Engineers** | - Manage deployment pipelines and version control.<br>- Set up CI/CD processes for automated builds and testing.<br>- Monitor performance and handle cloud infrastructure. | Enable continuous integration, deployment, and reliable server operations. |
+
+---
+
+
+## UI Component Patterns
+
+The Airbnb Clone project will use a set of reusable, modular UI components to ensure design consistency, maintainability, and scalability across the entire application. Below are the planned components and their purposes.
+
+| Component | Description | Key Features |
+|------------|--------------|---------------|
+| **Navbar** | The navigation bar displayed at the top of every page. It helps users quickly access different sections of the platform. | - Includes logo and brand name.<br>- Navigation links (Home, Listings, Bookings, Profile).<br>- Responsive hamburger menu for mobile screens.<br>- Sticky positioning for easy access. |
+| **Property Card** | A compact card used to display summarized property information within the listings page. | - Property image carousel or thumbnail.<br>- Property title and short description.<br>- Price per night and location.<br>- "View Details" button or clickable link. |
+| **Footer** | The footer appears at the bottom of all pages, providing helpful links and contact information. | - Contains copyright info.<br>- Links to Terms, Privacy Policy, and Contact.<br>- Consistent background color and small text style. |
+| **Search Bar** | Allows users to search for properties by keyword, location, or availability. | - Text input field.<br>- Search button with icon.<br>- Optional filters for check-in/out dates and guests. |
+| **Booking Summary Card** | Displays key details of a user’s selected property and booking info during checkout. | - Property thumbnail.<br>- Check-in/check-out dates.<br>- Total price and breakdown.<br>- Confirm booking button. |
+| **Review Component** | Shows user reviews and ratings for each listing. | - Star rating system.<br>- User avatar and comment.<br>- Pagination or “load more” feature. |
+
+---
 
