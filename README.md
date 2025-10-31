@@ -43,3 +43,38 @@ Key design objectives:
 | **Listing Detailed View** | Shows comprehensive details of a selected property. | - Property gallery<br>- Host info and amenities<br>- Reviews section<br>- “Book Now” button |
 | **Simple Checkout View** | Allows users to confirm their booking details and make payment. | - Booking summary<br>- Payment form<br>- Confirmation button and success message |
 
+###  Figma Design Exploration
+
+####  Color Styles
+The design uses a modern, minimal color palette inspired by Airbnb’s clean aesthetic:
+
+- **Primary Color:** `#FF385C` – Main accent color for buttons and highlights.  
+- **Secondary Color:** `#222222` – Dark text and headings.  
+- **Background Color:** `#FFFFFF` – Clean white background for readability.  
+- **Gray Tones:** `#717171`, `#EBEBEB` – Used for subtle borders, text, and hover states.  
+- **Success/Confirmation Color:** `#00A699` – For positive actions or messages.
+
+---
+
+####  Typography
+The project uses simple and consistent typography for readability and brand coherence.
+
+| Type | Font Family | Font Weight | Font Size |
+|------|--------------|--------------|------------|
+| **Headings (H1, H2)** | `Inter` or `Poppins` | 600–700 (Bold/Semi-bold) | 24px–36px |
+| **Body Text** | `Inter` or `Poppins` | 400 (Regular) | 14px–16px |
+| **Captions / Labels** | `Inter` | 500 (Medium) | 12px |
+
+> *Typography ensures visual hierarchy and consistency across all pages.*
+
+---
+
+####  Importance of Identifying Design Properties
+Understanding and documenting design properties such as **color styles**, **typography**, and **component spacing** is essential when translating a mockup from Figma to code.  
+
+- It ensures **visual consistency** throughout the application.  
+- Helps developers maintain **brand identity** without guessing design values.  
+- Makes collaboration between designers and developers more efficient.  
+- Simplifies updates and scalability — if a design changes in Figma, developers can adjust styles quickly.  
+
+
